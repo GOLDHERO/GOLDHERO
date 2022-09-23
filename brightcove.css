@@ -1,0 +1,21 @@
+/* * The body style is just for the
+ * background color of the codepen.
+ * Do not include in your code.
+ */
+
+/*
+ * Styles essential to the sample
+ * are below
+ */
+#backButton img {
+  margin-top: -7px;
+  height: 45px;
+  width: 45px;
+  cursor: pointer;
+}
+#forwardButton img {
+  margin-top: -7px;
+  height: 45px;
+  width: 45px;
+  cursor: pointer;
+}
