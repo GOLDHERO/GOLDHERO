@@ -1,5 +1,5 @@
 
-videojs.registerPlugin('vjs_video_3', function() {
+videojs.registerPlugin('vjs_video_3_html5_api', function() {
   var myPlayer = this,
       jumpAmount = 5,
       controlBar,
