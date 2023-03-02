@@ -1,4 +1,4 @@
-
+console.log('123');
 videojs.registerPlugin('vjs_video_3', function() {
   var myPlayer = this,
       jumpAmount = 5,
